@@ -1,7 +1,4 @@
 
-#
-![Cover](images/cover.png)
-
 # Introduction
 
 > Airnbn is a simple prototype app which lists tourist destinations.
