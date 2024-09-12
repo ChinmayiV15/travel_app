@@ -1,5 +1,4 @@
 
-[![Test](https://github.com/Shadow60539/travel_app/actions/workflows/test.yml/badge.svg?style=flat&logo=appveyor)](https://github.com/Shadow60539/travel_app/actions/workflows/test.yml) [![support](https://img.shields.io/badge/plateform-flutter%7Cvs%20code-9cf?style=flat&logo=appveyor)](https://github.com/Shadow60539/travel_app)        ![GitHub Repo stars](https://img.shields.io/github/stars/Shadow60539/travel_app?style=flat&logo=appveyor)      ![GitHub forks](https://img.shields.io/github/forks/Shadow60539/travel_app?style=flat&logo=appveyor)
 #
 ![Cover](images/cover.png)
 
